@@ -2,7 +2,7 @@
 
 Flutter app for Revival Apparel Co. 
 
-> Mock up of the design of the Flutter app
+> Designed for sales and promotion of the Revival brand
 
 ## Home Screen 
 
